@@ -1,2 +1,2 @@
 # learn-python
-sample python programs
+I am a third grader and I like to program in Python 
